@@ -1,2 +1,1 @@
-- 🔭 I work on Embedded Development(Linux, C++)
-- Python
+
